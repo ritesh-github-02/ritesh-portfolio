@@ -43,7 +43,7 @@ export const ALL_PROJECTS: Project[] = [
   { id: '5', name: 'Miranda Website', year: '2025', category: 'Design Agency', link: 'https://miranda-website-clone.vercel.app/' },
   { id: '6', name: 'Sidcup-Family-Golf', year: '2024', category: 'Modern Era', link: 'https://sidcup-family-golf-flame.vercel.app/' },
   { id: '7', name: 'Modern Ochi', year: '2024', category: 'Design Studio', link: 'https://ochi-modern-website.vercel.app/' },
-  { id: '7', name: 'Media Getter', year: '2025', category: 'Design Studio', link: 'https://media-getter-q62mc6pm5-riteshs-projects-3973b27f.vercel.app/' },
+  { id: '8', name: 'Media Getter', year: '2025', category: 'Design Studio', link: 'https://media-getter.vercel.app/' },
 
 
 ];
